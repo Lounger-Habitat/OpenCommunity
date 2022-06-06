@@ -70,3 +70,6 @@ https://www.freecodecamp.org/
 
 git使用  
 https://git-scm.com/book/en/v2
+
+TypeScript  
+https://www.typescriptlang.org/
